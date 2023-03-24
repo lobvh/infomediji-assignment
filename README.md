@@ -71,4 +71,4 @@ if our dataset is:
 it is not necessary that the US and CA like-to-view ratios are ~10%. It can be 20% for the US and 0.2% for CA."
 ```
 
-I'm going to fix them in the ```data-preparation-fix.ipynb```, and also focus on using ```PySpark``` this time for ```SQL``` tasks, even if it sounds like an overkill for few hounderd rows. 
+I'm going to fix them in the ```data-preparation-v2.ipynb```, and also focus on using ```PySpark``` this time for ```SQL``` tasks, even if it sounds like an overkill for few hounderd rows. 
